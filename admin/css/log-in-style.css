@@ -1,0 +1,17 @@
+body{
+    background-image: url(../components/img/blue-bg.jpg);
+    background-size: cover;
+}
+
+.container-fluid{
+    min-height: 100vh;
+}
+
+.index-form{
+    height: 100vh;
+}
+
+img{
+    width: 100%;
+}
+
